@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "SSC-2022"
+    },
+    {
+        "id": "02",
+        "name": "HSC-2022"
+    },
+    {
+        "id": "03",
+        "name": "JSc-2022"
+    },
+    {
+        "id": "04",
+        "name": "Admission Courses"
+    },
+    {
+        "id": "05",
+        "name": "Skill Development Courses"
+    },
+    {
+        "id": "06",
+        "name": "Diploma In Engineering"
+    }
+]
