@@ -1,26 +1,33 @@
 [
     {
         "id": "01",
-        "name": "SSC-2022"
+        "name": "SSC-2022",
+        "img":"https://img.freepik.com/free-photo/cute-brunette-trying-cheat-during-test-high-school_662251-1877.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=ais"
+        
     },
     {
         "id": "02",
-        "name": "HSC-2022"
+        "name": "HSC-2022",
+        "img":"https://img.freepik.com/free-vector/social-distance-school-concept_23-2148600280.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=ais"
     },
     {
         "id": "03",
-        "name": "JSc-2022"
+        "name": "JSS-2022",
+        "img": "https://img.freepik.com/premium-photo/close-up-hand-writing-exam-with-students-course_73622-714.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
     },
     {
         "id": "04",
-        "name": "Admission Courses"
+        "name": "Admission Courses",
+        "img":"https://img.freepik.com/free-psd/open-admission-written-blackboard-poster-template_23-2148233176.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
     },
     {
         "id": "05",
-        "name": "Skill Development Courses"
+        "name": "Skill Development Courses",
+        "img":"https://img.freepik.com/free-vector/self-confidence-concept-with-isometric-character-going-up-3d_1284-63025.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
     },
     {
         "id": "06",
-        "name": "Diploma In Engineering"
+        "name": "Diploma In Engineering",
+        "img": "https://img.freepik.com/free-vector/vector-paper-light-bulb-with-gears-cogs-business-interaction-concept_1284-42534.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
     }
 ]

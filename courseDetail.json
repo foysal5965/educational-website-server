@@ -9,15 +9,16 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Physics",
-      "author": {
+      "instructor": {
         "name": "Abdul",
-        "published_date": "2022-08-24 17:27:34",
+        "educational_qualification": "MSC in Physics",
         "img": "https://img.freepik.com/free-photo/young-man-is-ready-drawing-business-strategy_329181-680.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
       "image_url": "https://img.freepik.com/free-vector/science-atom-chain-white-blue-red-colors-with-shadow-3d_1284-49827.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
       "details": "Welcome to Class 10 physics! In this course, we will explore how to bend light  (unit2) how moving electrons light up bulbs (unit 3), and how we can generate electricity using magnets and wires (unit 4).",
-      "Fee": "100$"
+      "Fee": "100$",
+      "duration": "20h"
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -29,15 +30,16 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Chemistry",
-      "author": {
+      "instructor": {
         "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
+        "educational_qualification": "MSC in Chemistry",
         "img": "https://img.freepik.com/free-photo/photo-serious-dark-skinned-man-with-confident-facial-expression-indicates-with-both-index-fingers-upside-wears-spectacles-green-jumper_273609-23808.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
       "image_url": "https://img.freepik.com/free-vector/chemical-laboratory-workspace-design-concept_1284-11560.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
       "details": "Welcome to Class 10 Chemistry! (Short syllabus) In this course, we will explore types of chemical reactions (unit1), acids, and bases (unit2), why metals are awesome (unit 3),  why Carbon is responsible for life (unit 4), and how we classify elements (unit 5).",
-      "Fee": "80$"
+      "Fee": "80$",
+      "duration": "30h"
     },
 
     {
@@ -50,15 +52,16 @@
       "rating": { "number": 4.8, "badge": "Excellent" },
       "total_view": 400,
       "title": "Biology",
-      "author": {
+      "instructor": {
         "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
+        "educational_qualification": "MSC in Biology",
         "img": "https://img.freepik.com/free-photo/young-man-is-ready-drawing-business-strategy_329181-680.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
       },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
       "image_url": "https://img.freepik.com/free-vector/abstract-dna-background_52683-7656.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
       "details": "Welcome to Class 10 Biology! (CBSE syllabus) In this course, we will first explore the processes that keep living beings alive (unit 1), learn how & why living beings reproduce (unit 2), and learn about heredity & genes (unit 3).",
-      "Fee": "100"
+      "Fee": "100",
+      "duration": "22h"
     },
     {
       "_id": "f69a695f037cd9484cecaea37ca71012",
@@ -70,15 +73,16 @@
       "rating": { "number": 4.3, "badge": "Excellent" },
       "total_view": 400,
       "title": "Mathematics",
-      "author": {
+      "instructor": {
         "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
+        "educational_qualification": "MSC in Mathematics",
         "img": "https://img.freepik.com/free-photo/photo-serious-dark-skinned-man-with-confident-facial-expression-indicates-with-both-index-fingers-upside-wears-spectacles-green-jumper_273609-23808.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
       },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
       "image_url": "https://img.freepik.com/free-vector/maths-chalkboard_23-2148178220.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
       "details": "Class 10 Maths forms the fundamental basis for every higher level of math concepts and topics. In the Class 10 Maths curriculum, students are introduced to a wide variety of important concepts that would hold extreme importance in the later grades. Apart from developing a deeper understanding of maths fundamentals, class 10 mathematics is also important for board exams as it is a compulsory subject on most boards.",
-      "Fee": "100$"
+      "Fee": "100$",
+      "duration": "10h"
     },
 
     {
@@ -91,15 +95,16 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 980,
       "title": "Physics 1 & 2",
-      "author": {
+      "instructor": {
         "name": "system",
-        "published_date": "2022-08-24 23:15:00",
+        "educational_qualification": "MSC in Physics",
         "img": "https://img.freepik.com/free-photo/impressed-young-female-teacher-sits-table-with-school-tools-raising-pen-classroom_141793-106366.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
       },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
       "image_url": "https://img.freepik.com/free-vector/science-atom-chain-white-blue-red-colors-with-shadow-3d_1284-49827.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
       "details": "Welcome to Class 10 physics! (CBSE syllabus)In this course, we will explore how to bend light (unit1), what causes rainbows and make sky blue (unit2), how moving electrons light up bulbs (unit 3), and how we can generate electricity using magnets and wires (unit 4).",
-      "Fee": "100$"
+      "Fee": "100$",
+      "duration": "25h"
     },
     {
       "_id": "11468ed61aee84de492a8b04158a22f0",
@@ -111,15 +116,16 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 980,
       "title": "Chemistry 1 & 2",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
+      "instructor": {
+        "name": "Adam",
+        "educational_qualification": "MSC in Chemistry",
         "img": "https://img.freepik.com/free-photo/young-man-is-ready-drawing-business-strategy_329181-680.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
       },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
       "image_url": "https://img.freepik.com/free-vector/chemical-laboratory-workspace-design-concept_1284-11560.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
       "details": "Welcome to Class 10 Chemistry! (CBSE syllabus)In this course, we will explore types of chemical reactions (unit1), acids, and bases (unit2), why metals are awesome (unit 3), why Carbon is responsible for life (unit 4), and how we classify elements (unit 5).",
-      "Fee": "100$"
+      "Fee": "100$",
+      "duration": "14h"
     },
 
     {
@@ -132,15 +138,16 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": null,
       "title": "Biology 1 & 2 ",
-      "author": {
-        "name": null,
-        "published_date": "2022-08-30 15:00:04",
+      "instructor": {
+        "name": "Brandi",
+        "educational_qualification": "MSC in Biology",
         "img": "https://img.freepik.com/free-photo/impressed-young-female-teacher-sits-table-with-school-tools-raising-pen-classroom_141793-106366.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
       },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
       "image_url": "https://img.freepik.com/free-vector/science-biology-scribbles_23-2147501586.jpg?size=338&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
       "details": "Welcome to Class 10 Biology! (CBSE syllabus)In this course, we will first explore the processes that keep living beings alive (unit 1), learn how & why living beings reproduce (unit 2), and learn about heredity & genes (unit 3).",
-      "Fee": "100$"
+      "Fee": "100$",
+      "duration": "10h"
     },
 
     {
@@ -153,15 +160,16 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 111,
       "title": "Mathematics 1 & 2",
-      "author": {
-        "name": "system",
-        "published_date": null,
+      "instructor": {
+        "name": "Jordi",
+        "educational_qualification": "MSC in Mathematics",
         "img": "https://img.freepik.com/free-photo/impressed-young-female-teacher-sits-table-with-school-tools-raising-pen-classroom_141793-106366.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
       },
       "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
       "image_url": "https://img.freepik.com/free-photo/blackboard-inscribed-with-scientific-formulas-calculations_1150-19413.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
       "details": "Maths is an important subject for students in their school life and afterwards. Maths is one subject that is required in a lot of career paths and fields even after school and college. Students in school must have a good grip over the subject to make their day to day life easier. Having a good knowledge of the subject can help them score good marks in the exams and also solve issues quickly that would need any kind of calculations. Most subjects dealing with engineering, economics, commerce or maths honours subjects in college require the students to have maths as a compulsory subject in Class 12 and also maybe appear for an entrance test to get admission into the school.",
-      "Fee": "100$"
+      "Fee": "100$",
+      "duration": "30h"
     },
 
     {
@@ -174,9 +182,9 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 733,
       "title": "Mathematics",
-      "author": {
+      "instructor": {
         "name": "Theo Minh Châu",
-        "published_date": "2022-08-25 06:03:00",
+        "educational_qualification": "MSC in Mathematics",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
@@ -195,9 +203,9 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 733,
       "title": "English 1 & 2",
-      "author": {
+      "instructor": {
         "name": "Theo Minh Châu",
-        "published_date": "2022-08-25 06:03:00",
+        "educational_qualification": "MA in English",
         "img": "https://img.freepik.com/free-photo/young-man-is-ready-drawing-business-strategy_329181-680.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
       },
       "thumbnail_url": "https://i.ibb.co/df3gJ1b/unsplash-Eh-Tc-C9s-YXsw-13.png",
@@ -216,9 +224,9 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 127,
       "title": "Science",
-      "author": {
+      "instructor": {
         "name": "Ukrainska Pravda",
-        "published_date": "2022-08-25 18:53:49",
+        "educational_qualification": "MSC in Mathematics",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
@@ -236,9 +244,9 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 127,
       "title": "Bangla 1 & 2",
-      "author": {
+      "instructor": {
         "name": "Ukrainska Pravda",
-        "published_date": "2022-08-25 18:53:49",
+        "educational_qualification": "MA in Bangla",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
@@ -257,9 +265,9 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 700,
       "title": "Engineering Admission Course",
-      "author": {
+      "instructor": {
         "name": "Daniel Deangelo",
-        "published_date": "2022-08-30 20:02:52",
+        "educational_qualification": "profaser in BUET",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
@@ -277,14 +285,14 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 300,
       "title": "Medical Admission Course",
-      "author": {
+      "instructor": {
         "name": "",
-        "published_date": "2022-08-24 22:30:00",
+        "educational_qualification": "profaser in KUET",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
       "image_url": "https://img.freepik.com/free-photo/team-young-specialist-doctors-standing-corridor-hospital_1303-21199.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
-      "details": "Faculty of Healthcare Administration (FHA) has been set up under the aegis of ‘Institute of Good Manufacturing Practices India'. Institute of Good Manufacturing Practices India, registered as a non-profit society ( under The Societies Registration Act,1860) with Government of India recognised by the Department of Industrial Policy & Promotion, Ministry of Commerce & Industry, Government of India, accredited Vocational Institution of Ministry of Education, Government of India, approved training Institute of Food Safety and Standards Authority of India (FSSAI) and affiliated with Life Sciences Sector Skills Council (SSC) and Food Industry Sector Skills Council of National Skill Development Corporation (NSDC) -presents unique, friendly and interactive platform to get rid of all your GMP related glitches. GMP- is an essential element of industries like pharmaceutical, cosmetic, Ayurveda, biotech, homeopathic, medical device and food manufacturing. GMP in itself is the most dynamic part which witnesses frequent changes in terms of newer rules being added and older ones being renewed. Keeping self updated with current GMPs thus becomes inevitable to stay abreast with the changing industry needs and practices.",
+      "details": "Faculty of Healthcare Administration (FHA) has been set up under the aegis of ‘Institute of Good Manufacturing Practices India'. Institute of Good Manufacturing Practices India, registered as a non-profit society ( under The Societies Registration Act,1860) with Government of India recognised by the Department of Industrial Policy & Promotion, Ministry of Commerce & Industry, Government of India, accredited Vocational Institution of Ministry of Education, Government of India, approved training Institute of Food Safety and Standards instructority of India (FSSAI) and affiliated with Life Sciences Sector Skills Council (SSC) and Food Industry Sector Skills Council of National Skill Development Corporation (NSDC) -presents unique, friendly and interactive platform to get rid of all your GMP related glitches. GMP- is an essential element of industries like pharmaceutical, cosmetic, Ayurveda, biotech, homeopathic, medical device and food manufacturing. GMP in itself is the most dynamic part which witnesses frequent changes in terms of newer rules being added and older ones being renewed. Keeping self updated with current GMPs thus becomes inevitable to stay abreast with the changing industry needs and practices.",
       "Fee": "100$"
     },
     {
@@ -297,14 +305,14 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 0,
       "title": "Dental Admission Course",
-      "author": {
+      "instructor": {
         "name": "Reuters",
-        "published_date": "2022-08-25 03:09:16",
+        "educational_qualification": "MBBS in dental",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
       "image_url": "https://img.freepik.com/free-photo/african-american-man-patient-dental-chair-dentist-office-doctor-practice-concept-professional-dentist-helping-his-patient-dentistry-medical-drilling-patient-s-teeth-clinic_627829-13721.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
-      "details":"Faculty of Healthcare Administration (FHA) has been set up under the aegis of ‘Institute of Good Manufacturing Practices India'. Institute of Good Manufacturing Practices India, registered as a non-profit society ( under The Societies Registration Act,1860) with Government of India recognised by the Department of Industrial Policy & Promotion, Ministry of Commerce & Industry, Government of India, accredited Vocational Institution of Ministry of Education, Government of India, approved training Institute of Food Safety and Standards Authority of India (FSSAI) and affiliated with Life Sciences Sector Skills Council (SSC) and Food Industry Sector Skills Council of National Skill Development Corporation (NSDC) -presents unique, friendly and interactive platform to get rid of all your GMP related glitches. GMP- is an essential element of industries like pharmaceutical, cosmetic, Ayurveda, biotech, homeopathic, medical device and food manufacturing. GMP in itself is the most dynamic part which witnesses frequent changes in terms of newer rules being added and older ones being renewed. Keeping self updated with current GMPs thus becomes inevitable to stay abreast with the changing industry needs and practices.",
+      "details":"Faculty of Healthcare Administration (FHA) has been set up under the aegis of ‘Institute of Good Manufacturing Practices India'. Institute of Good Manufacturing Practices India, registered as a non-profit society ( under The Societies Registration Act,1860) with Government of India recognised by the Department of Industrial Policy & Promotion, Ministry of Commerce & Industry, Government of India, accredited Vocational Institution of Ministry of Education, Government of India, approved training Institute of Food Safety and Standards instructority of India (FSSAI) and affiliated with Life Sciences Sector Skills Council (SSC) and Food Industry Sector Skills Council of National Skill Development Corporation (NSDC) -presents unique, friendly and interactive platform to get rid of all your GMP related glitches. GMP- is an essential element of industries like pharmaceutical, cosmetic, Ayurveda, biotech, homeopathic, medical device and food manufacturing. GMP in itself is the most dynamic part which witnesses frequent changes in terms of newer rules being added and older ones being renewed. Keeping self updated with current GMPs thus becomes inevitable to stay abreast with the changing industry needs and practices.",
       "Fee": "100$"
     },
    
@@ -318,9 +326,9 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 552,
       "title": "Freelancing From Home",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-27 05:38:02",
+      "instructor": {
+        "name": "Jony",
+        "educational_qualification": "A successful freelancer in fiver and other onlice marketplace",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
@@ -338,9 +346,9 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 89,
       "title": "Spoken English",
-      "author": {
-        "name": "MarketScreener",
-        "published_date": "2022-08-30 18:05:42",
+      "instructor": {
+        "name": "NINa Elle",
+        "educational_qualification": "MA in English",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
@@ -358,9 +366,9 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 798,
       "title": "Learn Microsoft Word & Excel",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-25 18:45:00",
+      "instructor": {
+        "name": "Agust ames",
+        "educational_qualification": "Diploma in computer science and technology",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
@@ -379,9 +387,9 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 546,
       "title": "Diploma In Computer Engineering",
-      "author": {
-        "name": "The Philadelphia Inquirer",
-        "published_date": "2022-08-30 22:00:00",
+      "instructor": {
+        "name": "foysal",
+        "educational_qualification": "Diploma engineer , CST",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
@@ -399,14 +407,14 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 1870,
       "title": "Diploma In Civil Engineering",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
+      "instructor": {
+        "name": "Angela",
+        "educational_qualification": "Diploma Engineer , CIVIL",
         "img": "https://img.freepik.com/free-photo/impressed-young-female-teacher-sits-table-with-school-tools-raising-pen-classroom_141793-106366.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
       },
       "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
       "image_url": "https://img.freepik.com/free-photo/civil-engineer-construction-worker-manager-holding-digital-tablet-blueprints-talking-planing-about-construction-site-cooperation-teamwork-concept_640221-156.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph",
-      "published_date": "2022-08-24 18:00:00",
+      "educational_qualification": "2022-08-24 18:00:00",
       "details": "A Diploma in Civil Engineering program can be a good choice for your career. An important branch of modern engineering & technology is civil engineering, the main subject of which is planning, design, and structural execution. These include various challenging facilities including public works design supervision and construction activities like roads, bridges, tunnels, buildings, airports, dams, sewerage systems, ports, etc.",
       "Fee": "100$"
     },
@@ -420,9 +428,9 @@
       "rating": { "number": 4.2, "badge": "Excellent" },
       "total_view": 354,
       "title": "Diploma In Electricity and Electronic Engineering",
-      "author": {
+      "instructor": {
         "name": "Presstv",
-        "published_date": "2022-08-30 17:44:16",
+        "educational_qualification": "Diploma Engineer , EEE",
         "img": "https://img.freepik.com/free-photo/young-man-is-ready-drawing-business-strategy_329181-680.jpg?size=626&ext=jpg&ga=GA1.2.1680277961.1665324040&semt=sph"
       },
       "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
