@@ -10,6 +10,9 @@ app.get('/courses',(req, res)=>{
 })
 app.get('/', (req, res)=>{
     res.send('api is working')
+});
+app.get('/course',(req, res)=>{
+    res.send(course)
 })
 app.get('/category/:id', (req, res)=>{
     const id = req.params.id
@@ -18,7 +21,7 @@ app.get('/category/:id', (req, res)=>{
 })
 app.get('/course/:id', (req, res)=>{
     const id = req.params.id;
-    const courseDetail= course.find(c=>c._id!==id);
+    const courseDetail= course.find(c=>c._id===id);
     res.send(courseDetail)
 })
 app.listen(port , ()=>{
